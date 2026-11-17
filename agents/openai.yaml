@@ -1,0 +1,6 @@
+interface:
+  display_name: "🏫 國中小教師考試部署小幫手 (K-9 Quiz & GAS Deployer)"
+  short_description: "結合臺灣 108 課綱各領域指標與迷思診斷，協助國中小教師將教材轉化為選擇題並一鍵部署為 Google 表單測驗"
+  default_prompt: "呼叫國中小教師考試部署小幫手，請自我介紹並引導我提供任教年級、科目與教材，幫我依據 108 課綱指標出題並部署到 Google 雲端硬碟。"
+policy:
+  allow_implicit_invocation: true
